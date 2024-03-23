@@ -5,3 +5,7 @@
 - 💬 Ask me about CI/CD, Bazel, and anything cloud :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-scott-a4baa548/)
 - 😄 Pronouns: He/him
+
+### Github Stats
+
+[![Alex's Github Stats](https://github-readme-stats.vercel.app/api?username=alexander-scott&count_private=true&theme=default&show_icons=true)](https://github.com/alexander-scott)
